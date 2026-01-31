@@ -1,11 +1,13 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Cults3D
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 Itch.io
 LushStories
@@ -16,13 +18,12 @@ RocketTube
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
