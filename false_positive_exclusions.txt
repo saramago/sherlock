@@ -6,7 +6,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
+GitHub
+Gravatar
 Hubski
 LushStories
 PocketStars
@@ -18,10 +19,13 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
