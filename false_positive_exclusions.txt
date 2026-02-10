@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -15,7 +14,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
@@ -25,5 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
-xHamster
