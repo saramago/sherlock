@@ -1,8 +1,7 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
-DEV Community
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -19,11 +18,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
