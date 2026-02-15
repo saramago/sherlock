@@ -1,23 +1,27 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
+Cracked Forum
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hubski
+Itch.io
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
