@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
@@ -15,7 +16,6 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -28,3 +28,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
