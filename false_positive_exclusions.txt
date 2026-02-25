@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
-Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -10,12 +8,15 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
+Shelf
 SlideShare
 Smule
 Splice
@@ -28,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
