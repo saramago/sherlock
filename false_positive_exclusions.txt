@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -24,7 +23,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
-opennet
 phpRU
 svidbook
+xHamster
