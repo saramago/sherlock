@@ -7,9 +7,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
+Rarible
 Realmeye
 Reddit
 RocketTube
@@ -19,10 +19,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
