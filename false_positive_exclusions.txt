@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Chatujme.cz
 Codolio
 DeviantArt
 GNOME VCS
@@ -27,6 +28,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
+minds
 phpRU
 svidbook
