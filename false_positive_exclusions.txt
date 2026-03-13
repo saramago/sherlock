@@ -1,8 +1,6 @@
 APClips
 Archive.org
-Chatujme.cz
 Codolio
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -23,11 +21,10 @@ Smule
 Splice
 Spotify
 Strava
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
+opennet
 phpRU
 svidbook
