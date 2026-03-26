@@ -1,4 +1,5 @@
 APClips
+Archive of Our Own
 Archive.org
 Codolio
 DeviantArt
@@ -8,8 +9,10 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,3 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
