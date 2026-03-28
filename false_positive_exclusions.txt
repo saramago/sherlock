@@ -5,13 +5,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -24,9 +20,9 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
