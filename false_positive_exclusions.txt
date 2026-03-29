@@ -1,13 +1,17 @@
 APClips
 Archive.org
 Codolio
+DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LemmyWorld
+LessWrong
+LushStories
+Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -20,7 +24,6 @@ Splice
 Spotify
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
