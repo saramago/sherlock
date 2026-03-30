@@ -1,12 +1,12 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
 Minecraft
@@ -22,9 +22,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
