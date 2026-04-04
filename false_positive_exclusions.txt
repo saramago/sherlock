@@ -1,15 +1,15 @@
 7Cups
 APClips
 Archive.org
+Blogger
 Codolio
 Discord.bio
-Flipboard
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Pornhub
@@ -28,6 +28,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
