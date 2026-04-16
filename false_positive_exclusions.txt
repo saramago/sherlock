@@ -3,15 +3,14 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Patched
 PocketStars
@@ -23,10 +22,10 @@ Scribd
 Shelf
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
