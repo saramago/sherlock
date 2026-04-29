@@ -4,7 +4,6 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -13,14 +12,12 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -29,6 +26,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -37,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
