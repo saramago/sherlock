@@ -6,9 +6,9 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
-Dribbble
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -27,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
