@@ -5,10 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -27,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
