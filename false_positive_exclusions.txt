@@ -7,11 +7,12 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
@@ -28,7 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
+Star Citizen
 TryHackMe
 Velomania
 Weblate
