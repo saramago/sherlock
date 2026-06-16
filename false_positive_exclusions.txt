@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Codolio
 Cults3D
 DeviantArt
@@ -31,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -45,4 +43,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
