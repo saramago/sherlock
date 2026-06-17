@@ -7,17 +7,18 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
+Odysee
 Patched
 Pornhub
 Rarible
@@ -43,5 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
