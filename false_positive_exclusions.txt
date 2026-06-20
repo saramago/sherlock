@@ -9,14 +9,18 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -42,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
