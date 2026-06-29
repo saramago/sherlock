@@ -17,6 +17,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Pornhub
@@ -43,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
