@@ -16,12 +16,11 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,11 +31,11 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
