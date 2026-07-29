@@ -10,16 +10,16 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
+Instapaper
 LessWrong
 LinkedIn
-LiveJournal
 LushStories
-NICommunityForum
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,10 +28,12 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
