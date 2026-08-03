@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -17,18 +18,18 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -37,7 +38,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
