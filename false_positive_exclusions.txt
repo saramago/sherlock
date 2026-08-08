@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -20,10 +21,10 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -38,6 +39,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
