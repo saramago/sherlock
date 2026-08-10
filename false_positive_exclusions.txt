@@ -9,6 +9,8 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,7 +22,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -43,7 +44,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-dcinside
 igromania
 interpals
 mercadolivre
