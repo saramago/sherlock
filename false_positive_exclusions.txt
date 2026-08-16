@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
-Chess
 Codolio
 Cracked Forum
 Cults3D
@@ -23,7 +22,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
 Odysee
 PCGamer
@@ -40,6 +38,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -54,4 +53,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
