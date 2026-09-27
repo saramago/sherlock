@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -27,10 +28,8 @@ Linktree
 LushStories
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -41,9 +40,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
@@ -58,4 +57,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
