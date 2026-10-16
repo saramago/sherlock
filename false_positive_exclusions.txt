@@ -17,6 +17,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -35,7 +36,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -57,4 +57,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
